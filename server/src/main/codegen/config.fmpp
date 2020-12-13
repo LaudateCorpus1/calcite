@@ -57,6 +57,12 @@ data: {
       "JAR"
       "FILE"
       "ARCHIVE"
+      "MONTH"
+      "DATE"
+      "YEAR"
+      "DAY"
+      "IDENTITY"
+      "VALUE"
     ]
 
     # List of methods for parsing extensions to "CREATE [OR REPLACE]" calls.
